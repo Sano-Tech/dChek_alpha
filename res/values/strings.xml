@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">dChek</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="save">Save</string>
+    <string name="food_name">Food Name</string>
+    <string name="serving_size">Serving Size</string>
+    <string name="food_calories">Calories</string>
+    <string name="bg_level_title">Bg Level</string>
+    <string name="dr_visit_title">Doctor Visit</string>
+	<string name="cl_counter_title">Calorie Counter</string>
+	<string name="today_subtitle">Today</string>
+	<string name="last_week_subtitle">Last week</string>
+	<string name="last_visit">Last Visit</string>
+	<string name="next_visit">Next Visit</string>
+</resources>
